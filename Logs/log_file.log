@@ -1,0 +1,5 @@
+11/07/2023 09:58:06 PM: INFO: facbooklogin: step_impl: facebook link get open
+11/07/2023 09:58:06 PM: INFO: facbooklogin: step_impl: username entered
+11/07/2023 09:58:07 PM: INFO: facbooklogin: step_impl: password entered
+11/07/2023 09:58:07 PM: INFO: facbooklogin: step_impl: login button pressed
+11/07/2023 09:58:09 PM: INFO: facbooklogin: step_impl: invalid password entered message displayed as expected
